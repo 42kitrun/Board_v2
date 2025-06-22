@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758441291240",
+    "project_id": "amine-managing-page",
+    "storage_bucket": "amine-managing-page.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758441291240:android:1b69bc1deabc6869cd085d",
+        "android_client_info": {
+          "package_name": "com.example.amine_graph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTAdrPw6hTwzpN_wotQmlz_UWYqMOfj2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

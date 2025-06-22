@@ -1,0 +1,52 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "amine-managing-page",
+          "appId": "1:758441291240:android:1b69bc1deabc6869cd085d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "amine-managing-page",
+          "appId": "1:758441291240:ios:8449668d81cd0425cd085d",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "amine-managing-page",
+          "appId": "1:758441291240:ios:8449668d81cd0425cd085d",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "amine-managing-page",
+          "configurations": {
+            "android": "1:758441291240:android:1b69bc1deabc6869cd085d",
+            "ios": "1:758441291240:ios:8449668d81cd0425cd085d",
+            "macos": "1:758441291240:ios:8449668d81cd0425cd085d",
+            "web": "1:758441291240:web:5f325c133fe4408dcd085d",
+            "windows": "1:758441291240:web:904e1322713b38c3cd085d"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}
